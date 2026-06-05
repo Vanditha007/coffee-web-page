@@ -1,0 +1,51 @@
+body{
+        background-color:beige;
+        margin: 20px;
+        padding:10px;
+        border: 2px solid brown;
+        
+}
+p{
+        color:brown;     
+}
+h1{
+        color:darkred;
+               
+}
+.brown{
+        color:darkred        
+}
+.bro{
+        color:brown;
+       
+}
+.black{
+        color:brown;
+        height: 50vh;
+    }
+.br{
+    border: 2px solid brown;
+    padding:5px;
+} 
+.bl{
+    border: 2px solid brown;
+    padding:5px;
+    height: 75vh;
+}
+
+main{
+        display: flex;
+        border: 2px solid darkred;
+        padding: 1px;
+        align-items: center;
+        min-width: 50vw;
+}   
+.mc{
+        padding: 2px;
+}         
+.sc{
+        display: flex;
+        padding-left: 800px;
+        align-items: center;
+        gap: 3px;
+}
